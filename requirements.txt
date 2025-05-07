@@ -1,0 +1,16 @@
+pymongo[srv]
+
+langchain
+langchain_community
+langchain_core
+langsmith
+python-dotenv
+pymongo
+flask
+flask-cors
+sentence-transformers
+langchain_groq
+google-generativeai
+langchain-anthropic
+
+langchain_openai
